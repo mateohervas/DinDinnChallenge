@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Din Dinn Challenge</string>
+
+    <string name="retry">Retry</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="x_space_y">%1$s %2$s</string>
+    <string name="promotion">promotion</string>
+    <string name="added_1">added + 1!</string>
+</resources>
