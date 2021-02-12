@@ -1,4 +1,4 @@
-# DinDinnChallenge
+# MvRx-Architecture-Example
 
 ## The Assignment
 Replicate the below UI and animation flow, and send us your final assignment using GitHub. :https://dribbble.com/shots/6571883-Food-Delivery-App
