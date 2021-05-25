@@ -3,10 +3,9 @@
 ## The Assignment
 Replicate the below UI and animation flow:https://dribbble.com/shots/6571883-Food-Delivery-App
 
-### Requirements:
-You do not need to use exact images, so please use other suitable images.
-Write a networking layer to call the API and fetch data which you have to mock the data to display on the UI.
-Use the following dependencies/libraries to implement:
+### Observations:
+Didn't use exact images.
+Used the following dependencies/libraries to implement:
 - Rxjava
 - Kotlin
 - MvRx architecture. (https://github.com/airbnb/MvRx)
