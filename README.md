@@ -1,7 +1,7 @@
 # MvRx-Architecture-Example
 
 ## The Assignment
-Replicate the below UI and animation flow, and send us your final assignment using GitHub. :https://dribbble.com/shots/6571883-Food-Delivery-App
+Replicate the below UI and animation flow:https://dribbble.com/shots/6571883-Food-Delivery-App
 
 ### Requirements:
 You do not need to use exact images, so please use other suitable images.
